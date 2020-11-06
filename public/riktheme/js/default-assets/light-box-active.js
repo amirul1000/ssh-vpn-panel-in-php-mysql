@@ -1,0 +1,1 @@
+"use strict";$(document).ready(function(){$(document).on("click",'[data-toggle="lightbox"]',function(t){t.preventDefault(),$(this).ekkoLightbox()})});

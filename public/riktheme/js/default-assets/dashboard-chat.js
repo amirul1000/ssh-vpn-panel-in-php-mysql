@@ -1,0 +1,1 @@
+!function(c){"use strict";jQuery("#chat-conversation").slimscroll({height:"300px",color:"#1b55e3",size:"2px"})}();
