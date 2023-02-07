@@ -9,4 +9,4 @@ Youtube Channel : https://www.youtube.com/channel/UC2Q4oWfoMQzi6AES8Vb2vQw?view_
 
 Donate to Paypal : patabuz@gmail.com
 
-https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=KHM59LRPNV3YY&source=url
+https://www.binance.com/en/activity/referral-entry/CPA?fromActivityPage=true&ref=CPA_00OKE6XXH8
