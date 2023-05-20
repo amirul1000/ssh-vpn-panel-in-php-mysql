@@ -3,7 +3,7 @@
 SSH VPN Panel in PHP MySQL Free Code
 =====================================
 
-Youtube Tutorial : https://youtu.be/JFGiJjepK58
+Youtube Tutorial : https://www.youtube.com/watch?v=g9dnrivkp8U
 
 Donate to Paypal : patabuz@gmail.com
 
