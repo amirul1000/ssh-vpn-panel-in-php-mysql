@@ -8,4 +8,4 @@ Youtube Tutorial : https://www.youtube.com/watch?v=g9dnrivkp8U
 Donate to Paypal : patabuz@gmail.com
 
 
-https://way2k.com/?ref=amirrucst
+https://www.paypal.com/paypalme/patacorporation
